@@ -1,0 +1,70 @@
+# xfs_db -c 'inode 15192014216' -c 'p' sdl1.img 
+core.magic = 0x494e
+core.mode = 040775
+core.version = 3
+core.format = 2 (extents)
+core.onlink = 0
+core.uid = 99
+core.gid = 100
+core.nlinkv2 = 2
+core.projid_lo = 0
+core.projid_hi = 0
+core.atime.sec = Tue Aug 29 12:36:13 2023
+core.atime.nsec = 804569749
+core.mtime.sec = Fri Nov 17 08:25:04 2023
+core.mtime.nsec = 76815503
+core.ctime.sec = Fri Nov 17 08:25:04 2023
+core.ctime.nsec = 76815503
+core.size = 69632
+core.nblocks = 20
+core.extsize = 0
+core.nextents = 12
+core.naextents = 0
+core.forkoff = 0
+core.aformat = 2 (extents)
+core.dmevmask = 0
+core.dmstate = 0
+core.newrtbm = 0
+core.prealloc = 0
+core.realtime = 0
+core.immutable = 0
+core.append = 0
+core.sync = 0
+core.noatime = 0
+core.nodump = 0
+core.rtinherit = 0
+core.projinherit = 0
+core.nosymlinks = 0
+core.extsz = 0
+core.extszinherit = 0
+core.nodefrag = 0
+core.filestream = 0
+core.gen = 750421683
+next_unlinked = null
+v3.crc = 0xcefdd0e1 (correct)
+v3.change_count = 11213
+v3.lsn = 0x400277642
+v3.flags2 = 0x8
+v3.cowextsize = 0
+v3.crtime.sec = Tue Aug 29 12:36:13 2023
+v3.crtime.nsec = 804569749
+v3.inumber = 15192014216
+v3.uuid = 884f2cd5-5a2c-4df0-95ee-b76805c571cb
+v3.reflink = 0
+v3.cowextsz = 0
+v3.dax = 0
+v3.bigtime = 1
+v3.nrext64 = 0
+u3.bmx[0-11] = [startoff,startblock,blockcount,extentflag] 
+0:[0,1899001711,1,0] 
+1:[1,1899001415,1,0] 
+2:[2,1899680414,2,0] 
+3:[4,1906334280,2,0] 
+4:[6,1906334461,1,0] 
+5:[8,1906333758,1,0] 
+6:[9,1906333733,1,0] 
+7:[10,1906335087,2,0] 
+8:[12,1906336036,4,0] 
+9:[16,1906336066,1,0] 
+10:[8388608,1907390614,3,0] 
+11:[16777216,1909513548,1,0]
