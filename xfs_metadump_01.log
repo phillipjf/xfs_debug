@@ -1,0 +1,7 @@
+# xfs_metadump -wgF sdl1.img sdl1.2.metadump 
+Copying free space trees of AG 1
+Metadata corruption detected at 0x467bb8, xfs_inobt block 0x80001370/0x1000
+Metadata corruption detected at 0x467bb8, xfs_inobt block 0x800013d0/0x1000
+
+xfs_metadump: invalid numrecs 384 in inobt block 1/635
+xfs_metadump: bad starting inode offset 7
